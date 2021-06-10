@@ -1,0 +1,126 @@
+body {
+    background-color: blue;
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+}
+
+.baseball {
+    width: 250px;
+}
+
+.basketball {
+    width: 250px;
+}
+
+.choice1 {
+    display: flex;
+    justify-content: center;
+}
+
+.base-acc {
+    display: none;
+}
+
+.bask-acc {
+    display: none;
+}
+
+.fresno {
+    width: 250px;
+}
+
+.base-story1 {
+    display: none;
+}
+
+.play1 {
+    width: 400px;
+}
+
+.base-took {
+    display: none;
+}
+
+.k {
+    width: 400px;
+}
+
+.cwin {
+    width: 350px;
+}
+
+.base-swung {
+    display: none;
+}
+
+.fail {
+    display: none;
+}
+
+.restart1 {
+    width: 300px;
+}
+
+.mlbdraft {
+    display: none;
+}
+
+.yankees {
+    width: 300px;
+}
+
+.mlbend {
+    display: none;
+}
+
+.mlbchamp {
+    width: 500px;
+}
+
+.bask-story1 {
+    display: none;
+}
+
+.play2 {
+    width: 350px;
+}
+
+.bask-shot {
+    display: none;
+}
+
+.miss {
+    width: 400px;
+}
+
+.fail2 {
+    display: none;
+}
+
+.bask-pass {
+	display: none;
+}
+
+.nwin {
+    width:400px;
+}
+
+.laker {
+	width:400px;
+}
+
+.nbadraft {
+	display: none;
+}
+
+.nbachamp {
+    width: 400px;
+    height: 300px;
+}
+
+.nbaend {
+	display: none;
+}
